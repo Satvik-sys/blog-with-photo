@@ -1,0 +1,33 @@
+
+.image-section{
+display: flex;
+    justify-content: center;
+}
+.section-style{
+margin-right: 25px;
+margin-left: 25px;
+background-color: white;
+}
+
+
+.hi{
+    justify-content: center;
+    border-bottom: solid 2px pink;
+    border-top: solid 2px pink;
+    margin: 10px 0;
+    text-align: center;
+}
+
+img{
+    height: 300px;
+    width: 300px;
+}
+
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
